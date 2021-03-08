@@ -1,0 +1,4 @@
+[INFO ] 2021-03-08 22:35:42.029 [main] App - Hello from logger info level
+[DEBUG] 2021-03-08 22:35:42.031 [main] App - Hello from logger debug level
+[INFO ] 2021-03-08 22:35:45.003 [main] App - Hello from logger info level
+[DEBUG] 2021-03-08 22:35:45.005 [main] App - Hello from logger debug level
